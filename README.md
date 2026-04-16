@@ -2,7 +2,7 @@
 ## 🎥 Model Visualisations
 
 ### 1. Cosmic Variance – Mtot Field (15 Realisations)
-![Cosmic variance in Mtot](Animations/mtot_cosmic_variance.gif)
+![Cosmic variance in Mtot](Animations/all_fields_cosmic_variance.gif)
 
 *Fifteen different realisations of the same cosmological parameters (Ωm, σ8) illustrate the intrinsic “cosmic variance” the model must learn to ignore.*
 
