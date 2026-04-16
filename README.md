@@ -1,5 +1,20 @@
 # Astrophysics-and-Cosmology-with-Machine-Learning
+## 🎥 Model Visualisations
 
+### 1. Cosmic Variance – Mtot Field (15 Realisations)
+![Cosmic variance in Mtot](Animations/mtot_cosmic_variance.gif)
+
+*Fifteen different realisations of the same cosmological parameters (Ωm, σ8) illustrate the intrinsic “cosmic variance” the model must learn to ignore.*
+
+### 2. Single‑Field Performance – Ωm MAPE
+![Ωm MAPE bar chart](Animations/mape_bar_animation.gif)
+
+*Bars rise to the final Mean Absolute Percentage Error for Ωm across all 12 fields. Mtot and Mcdm are the best performers.*
+
+### 3. Cross‑Field Generalisation Heatmap
+![Cross‑field heatmap](Animations/crossfield_heatmap_animation.gif)
+
+*MAPE matrix fills in cell by cell, showing how models trained on one field generalise to others. Dark matter fields transfer best.*
 # Understanding the Universe with CAMELS
 
 **Abstract:** In this project, I applied convolutional neural networks (CNNs) to infer cosmological parameters, Ωm and σ8, from cosmological hydrodynamical 2D maps provided by the CAMELS IllustrisTNG 1P dataset, which includes 12 astrophysical fields with 990 images per field.
