@@ -12,7 +12,7 @@
 *Bars rise to the final Mean Absolute Percentage Error for Ωm across all 12 fields. Mtot and Mcdm are the best performers.*
 
 ### 3. Cross‑Field Generalisation Heatmap
-![Cross‑field heatmap](Animations/crossfield_heatmap_animation.gif)
+![Cross‑field heatmap](Animations/crossfield_heatmap_annotated.gif)
 
 *MAPE matrix fills in cell by cell, showing how models trained on one field generalise to others. Dark matter fields transfer best.*
 # Understanding the Universe with CAMELS
