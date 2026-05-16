@@ -1,5 +1,5 @@
 # Astrophysics-and-Cosmology-with-Machine-Learning
-## 🎥 Model Visualisations
+## 🎥 Model Visualisations. Created these to help explain my project
 
 ### 1. Cosmic Variance – ALL FIELDS!
 ![Cosmic variance in Mtot](Animations/all_fields_cosmic_variance.gif)
